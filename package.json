@@ -1,0 +1,16 @@
+{
+	"name": "test",
+	"version": "1.0.0",
+	"description": "first tests",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "kate",
+	"devDependencies": {
+		"@babel/core": "^7.24.4",
+		"@babel/preset-env": "^7.24.4",
+		"babel-jest": "^29.7.0",
+		"jest": "^29.7.0"
+	}
+}
